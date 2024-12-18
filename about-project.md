@@ -12,9 +12,9 @@ The dashboard features interactive elements allowing users to select specific te
 
 Ensure you have the required packages, they are all in my requirements.txt file.
 Navigate to the final_dashboard.py file in the directory 
-Make sure the data file 'PBP2324.csv' is in the cache directory
+My file was too large to be stored in the cache folder, so I created a function to read it from a google drive and the link is accessable by everyone.
 Run streamlit
-The dashboard will open in your default web browser
+The dashboard will open in your default web browser - This takes a while, I couldnt get it to run faster after taking the file out of cache.
 Use the sidebar to select conferences and teams for analysis
 
 ### Other things you need to know
