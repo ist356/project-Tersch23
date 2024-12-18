@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Student Email:  email
+Student Name:  Jacob VonTersch
+Student Email:  jvonters@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,6 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+Throughout this final project developing a basketball analytics dashboard, I grew a lot in my understanding of both Python programming and data visualization concepts. I spent considerable time trying out various features and overcoming challenges, particularly in working with testing frameworks like pytest... I could not figure this out until the very end. The dashboard's development helped me get better with visualization libraries like Plotly and Matplotlib, while also getting better with Streamlit by creating the interactive application. Working with generative AI tools taught me effective prompting strategies and the importance of understanding suggested code rather than just copying it. As I did have to use AI tools, I made sure to change my project into my own, and learn along the way.
+
+The biggest challenge I faced was attempting to implement a shot heat map visualization. I gave a lot of effort trying to download and implement shooting coordinate data, but I couldn't complete this feature within the project timeline. If I had more time, I would focus on implementing the shot heat map using proper coordinate data, adding more advanced analytics like player efficiency ratings. Overall, this project significantly improved my confidence in building Python applications, working with real-world sports data, and creating professional visualizations, while also showing me areas where I can continue to grow.
